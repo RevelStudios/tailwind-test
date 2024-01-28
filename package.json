@@ -1,11 +1,11 @@
 {
-  "name": "tailwindcss",
-  "version": "3.3.2",
+  "name": "tailwindcss-test",
+  "version": "0.1",
   "description": "A utility-first CSS framework for rapidly building custom user interfaces.",
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "../lib/index.js",
   "types": "types/index.d.ts",
-  "repository": "https://github.com/tailwindlabs/tailwindcss.git",
+  "repository": "https://github.com/RevelStudios/tailwindcss-test",
   "bugs": "https://github.com/tailwindlabs/tailwindcss/issues",
   "homepage": "https://tailwindcss.com",
   "bin": {

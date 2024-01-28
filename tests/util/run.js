@@ -1,6 +1,6 @@
 import pkg from '../../package.json'
 import postcss from 'postcss'
-import tailwind from '../../src'
+import tailwind from '../../../tailwind-test'
 import corePluginList from '../../src/corePluginList'
 import resolveConfig from '../../src/public/resolve-config'
 import { createContext } from '../../src/lib/setupContextUtils'
